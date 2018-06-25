@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Version: 201806250001
+! Title: SYJ List
+! Homepage: https://gitee.com/swapteam/Adblock-List
+!-----------------------General advert blocking filters-----------------------!
+
+
+!网易系列
+mail.163.com##.gWel-tabs
+mail.163.com##.plugin-2018WC
+mail.126.com##.gWel-tabs
+mail.126.com##.plugin-2018WC
+mail.yeah.net##.plugin-2018WC
+mail.yeah.net##.gWel-tabs
