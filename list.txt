@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 201806250001
 ! Title: SYJ List
+! Last modified: 2018/06/25 15:44 +0800
 ! Homepage: https://gitee.com/swapteam/Adblock-List
 !-----------------------General advert blocking filters-----------------------!
 
