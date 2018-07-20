@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201806250001
+! Version: 201807200001
 ! Title: SYJ List
-! Last modified: 2018/06/25 15:44 +0800
+! Last modified: 2018/07/20 14:56 +0800
 ! Homepage: https://gitee.com/swapteam/Adblock-List
 !-----------------------General advert blocking filters-----------------------!
 
@@ -13,3 +13,9 @@ mail.126.com##.gWel-tabs
 mail.126.com##.plugin-2018WC
 mail.yeah.net##.plugin-2018WC
 mail.yeah.net##.gWel-tabs
+
+
+!text
+www.novelccc.com##div.mb5px.container
+www.novelccc.com##div.mb5px.clearfix
+www.novelccc.com##p
