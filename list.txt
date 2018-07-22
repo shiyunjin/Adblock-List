@@ -2,7 +2,7 @@
 ! Version: 201807200001
 ! Title: SYJ List
 ! Last modified: 2018/07/20 14:56 +0800
-! Homepage: https://gitee.com/swapteam/Adblock-List
+! Homepage: https://gitee.com/shiyunjin/Adblock-List
 !-----------------------General advert blocking filters-----------------------!
 
 
